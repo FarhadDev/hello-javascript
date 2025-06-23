@@ -47,3 +47,7 @@
             - Control Stack
             - Runtime Stack
             - Machine Stack
+
+# Figure 
+
+![diagram-export-6-24-2025-12_50_42-AM](https://github.com/user-attachments/assets/4a1bf4cb-8c05-41cb-aac0-e8d86a8ecaad)
