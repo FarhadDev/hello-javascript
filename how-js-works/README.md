@@ -25,3 +25,5 @@ And when we say synchronus single threded that means javascript can execute one 
 # Figure
 
 
+![img](https://github.com/user-attachments/assets/f3e4f62e-23db-49c7-afbc-a214e3a191c5)
+
