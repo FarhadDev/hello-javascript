@@ -121,7 +121,7 @@ a();
 
 ### All the explanation will be more clear in the following figure:
 
-
+![diagram-export-6-25-2025-10_05_30-PM](https://github.com/user-attachments/assets/5c90793b-684c-42e4-9d16-b46afdc582ba)
 
 
 
